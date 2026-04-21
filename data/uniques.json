@@ -1,0 +1,268 @@
+[
+    {
+        "name": "Ancient Librarian",
+        "short_name": "Ancient L.",
+        "min_spawn": 480,
+        "max_spawn": 480,
+        "is_variable": false
+    },
+    {
+        "name": "Tomb General Jin",
+        "short_name": "Tomb Gen. Jin",
+        "min_spawn": 360,
+        "max_spawn": 360,
+        "is_variable": false
+    },
+    {
+        "name": "Tomb General Bi",
+        "short_name": "Tomb Gen. Bi",
+        "min_spawn": 360,
+        "max_spawn": 360,
+        "is_variable": false
+    },
+    {
+        "name": "Tomb General Hyun",
+        "short_name": "Tomb Gen. Hyun",
+        "min_spawn": 360,
+        "max_spawn": 360,
+        "is_variable": false
+    },
+    {
+        "name": "Tomb General Ho",
+        "short_name": "Tomb Gen. Ho",
+        "min_spawn": 360,
+        "max_spawn": 360,
+        "is_variable": false
+    },
+    {
+        "name": "Apis",
+        "short_name": "Apis",
+        "min_spawn": 180,
+        "max_spawn": 360,
+        "is_variable": true
+    },
+    {
+        "name": "Captain Ivy",
+        "short_name": "Ivy",
+        "min_spawn": 120,
+        "max_spawn": 120,
+        "is_variable": false
+    },
+    {
+        "name": "Cerberus",
+        "short_name": "Cerberus",
+        "min_spawn": 60,
+        "max_spawn": 60,
+        "is_variable": false
+    },
+    {
+        "name": "Demon Shaitan",
+        "short_name": "D. Shaitan",
+        "min_spawn": 330,
+        "max_spawn": 330,
+        "is_variable": false
+    },
+    {
+        "name": "Desert Beast [INT]",
+        "short_name": "Des. Beast [INT]",
+        "min_spawn": 570,
+        "max_spawn": 570,
+        "is_variable": false
+    },
+    {
+        "name": "Desert Beast [STR]",
+        "short_name": "Des. Beast [STR]",
+        "min_spawn": 570,
+        "max_spawn": 570,
+        "is_variable": false
+    },
+    {
+        "name": "Desert Scorpion",
+        "short_name": "Des. Scorpion",
+        "min_spawn": 270,
+        "max_spawn": 270,
+        "is_variable": false
+    },
+    {
+        "name": "Gnome Earth Element [STR]",
+        "short_name": "Gnome [STR]",
+        "min_spawn": 480,
+        "max_spawn": 480,
+        "is_variable": false
+    },
+    {
+        "name": "Goria",
+        "short_name": "Goria",
+        "min_spawn": 180,
+        "max_spawn": 180,
+        "is_variable": false
+    },
+    {
+        "name": "Hew Snake General [STR]",
+        "short_name": "Hew SG [STR]",
+        "min_spawn": 450,
+        "max_spawn": 450,
+        "is_variable": false
+    },
+    {
+        "name": "Isyutaru",
+        "short_name": "Isyu",
+        "min_spawn": 240,
+        "max_spawn": 240,
+        "is_variable": false
+    },
+    {
+        "name": "Jung Snake General [INT]",
+        "short_name": "Jung SG [INT]",
+        "min_spawn": 450,
+        "max_spawn": 450,
+        "is_variable": false
+    },
+    {
+        "name": "Ki Snake General [INT]",
+        "short_name": "Ki SG [INT]",
+        "min_spawn": 450,
+        "max_spawn": 450,
+        "is_variable": false
+    },
+    {
+        "name": "Lord Yarkan",
+        "short_name": "L. Yarkan",
+        "min_spawn": 300,
+        "max_spawn": 300,
+        "is_variable": false
+    },
+    {
+        "name": "Lost Pharaoh",
+        "short_name": "L. Pharaoh",
+        "min_spawn": 510,
+        "max_spawn": 510,
+        "is_variable": false
+    },
+    {
+        "name": "Mangyang",
+        "short_name": "Mangyang",
+        "min_spawn": 30,
+        "max_spawn": 30,
+        "is_variable": false
+    },
+    {
+        "name": "Movia",
+        "short_name": "Movia",
+        "min_spawn": 30,
+        "max_spawn": 30,
+        "is_variable": false
+    },
+    {
+        "name": "Salamander Fire Element [STR]",
+        "short_name": "Salamander [STR]",
+        "min_spawn": 480,
+        "max_spawn": 480,
+        "is_variable": false
+    },
+    {
+        "name": "Salt Desert Demon",
+        "short_name": "Salt Demon",
+        "min_spawn": 600,
+        "max_spawn": 600,
+        "is_variable": false
+    },
+    {
+        "name": "Sand Monster [INT]",
+        "short_name": "Sand Monster [INT]",
+        "min_spawn": 360,
+        "max_spawn": 360,
+        "is_variable": false
+    },
+    {
+        "name": "Sand Monster [STR]",
+        "short_name": "Sand Monster [STR]",
+        "min_spawn": 360,
+        "max_spawn": 360,
+        "is_variable": false
+    },
+    {
+        "name": "Slyph Wind Element [INT]",
+        "short_name": "Slyph [INT]",
+        "min_spawn": 480,
+        "max_spawn": 480,
+        "is_variable": false
+    },
+    {
+        "name": "The Black Viper",
+        "short_name": "SoSo",
+        "min_spawn": 480,
+        "max_spawn": 480,
+        "is_variable": false
+    },
+    {
+        "name": "SoSo [INT]",
+        "short_name": "SoSo [I]",
+        "min_spawn": 480,
+        "max_spawn": 480,
+        "is_variable": false
+    },
+    {
+        "name": "SoSo [STR]",
+        "short_name": "SoSo [S]",
+        "min_spawn": 480,
+        "max_spawn": 480,
+        "is_variable": false
+    },
+    {
+        "name": "Sphinx (INT)",
+        "short_name": "Sphinx [INT]",
+        "min_spawn": 540,
+        "max_spawn": 540,
+        "is_variable": false
+    },
+    {
+        "name": "Sphinx (STR)",
+        "short_name": "Sphinx [STR]",
+        "min_spawn": 540,
+        "max_spawn": 540,
+        "is_variable": false
+    },
+    {
+        "name": "Tai-Sui",
+        "short_name": "Tai-Sui",
+        "min_spawn": 120,
+        "max_spawn": 120,
+        "is_variable": false
+    },
+    {
+        "name": "Taishan",
+        "short_name": "Taishan",
+        "min_spawn": 210,
+        "max_spawn": 210,
+        "is_variable": false
+    },
+    {
+        "name": "Tiger Girl",
+        "short_name": "Tiger",
+        "min_spawn": 60,
+        "max_spawn": 60,
+        "is_variable": false
+    },
+    {
+        "name": "Undine Water Element [INT]",
+        "short_name": "Undine [INT]",
+        "min_spawn": 480,
+        "max_spawn": 480,
+        "is_variable": false
+    },
+    {
+        "name": "Uruchi",
+        "short_name": "Uruchi",
+        "min_spawn": 180,
+        "max_spawn": 180,
+        "is_variable": false
+    },
+    {
+        "name": "Yul Snake General [STR]",
+        "short_name": "Yul SG [STR]",
+        "min_spawn": 450,
+        "max_spawn": 450,
+        "is_variable": false
+    }
+]

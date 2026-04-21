@@ -1,0 +1,29 @@
+LegendsOverlayV2/
+├── main.py
+├── app/
+│   ├── __init__.py
+│   └── state.py
+├── gui/
+│   ├── __init__.py
+│   ├── calendar_window.py
+│   ├── event_detail_popup.py
+│   ├── overlay_window.py
+│   ├── settings_window.py
+│   ├── styles.py
+│   ├── theme.py
+│   ├── unique_setup_window.py
+│   └── tabs/
+│       ├── __init__.py
+│       ├── notifications_tab.py
+│       ├── settings_tab.py
+│       ├── shared.py
+│       └── uniques_tab.py
+├── runtime/
+│   ├── __init__.py
+│   ├── event_engine.py
+│   └── tts_manager.py
+├── data/
+│   ├── events.json
+│   ├── settings.json
+│   └── uniques.json
+└── assets/

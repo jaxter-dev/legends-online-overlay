@@ -1,0 +1,84 @@
+{
+  "overlay": {
+    "locked": true,
+    "position": {
+      "x": 1530,
+      "y": 46
+    },
+    "max_events_displayed": 5
+  },
+  "notifications": {
+    "enabled_events": {
+      "selket_neith_0630": true,
+      "selket_neith_1230": true,
+      "selket_neith_1830": true,
+      "isis_anubis_0730": true,
+      "isis_anubis_1430": true,
+      "isis_anubis_2030": true,
+      "haroesis_seth_1830": true,
+      "beakyung_2130": true,
+      "roc_2130": true,
+      "ctf_0100": true,
+      "ctf_0500": true,
+      "ctf_0900": true,
+      "ctf_1300": true,
+      "ctf_1700": true,
+      "ctf_2100": true,
+      "ba_score_0400": true,
+      "ba_score_0800": true,
+      "ba_score_1600": true,
+      "ba_flag_1200": true,
+      "ba_flag_2000": true,
+      "survival_arena_1100": true,
+      "survival_arena_2300": true,
+      "special_goods_0330": true,
+      "special_goods_0930": true,
+      "special_goods_1530": true,
+      "special_goods_2130": true,
+      "last_man_1130": true,
+      "last_man_2330": true,
+      "wol_1930": true,
+      "tower_defense_1730": true,
+      "guild_wars_2030": true,
+      "fortress_2130": true
+    },
+    "voice_enabled": true,
+    "voice_name": "male",
+    "volume": 80,
+    "alert_timing": {
+      "ten_minutes": true,
+      "five_minutes": true,
+      "start": true
+    },
+    "toast_enabled": true,
+    "voice": {
+      "enabled": true,
+      "voice_name": "male",
+      "volume": 50
+    },
+    "toast": {
+      "enabled": true,
+      "only_when_unfocused": true
+    }
+  },
+  "uniques": {
+    "enabled_uniques": {}
+  },
+  "ui": {
+    "first_run_welcome_shown": false,
+    "show_welcome_on_startup": true
+  },
+  "time_format": "24h",
+  "window_binding": {
+    "enabled": true,
+    "process_name": "sro_client.exe",
+    "title_contains": "[Legends Online]",
+    "hide_when_unfocused": true,
+    "hide_when_minimized": true
+  },
+  "daily_check": {
+    "enabled": true,
+    "last_claim_at": "2026-04-20T21:20:06.602671+02:00",
+    "dismissed_for_cycle": false
+  }
+}
