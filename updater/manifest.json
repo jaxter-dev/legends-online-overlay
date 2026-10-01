@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "app": {
-    "version": "2.5.0",
+    "version": "1.2.1",
     "release_asset": "LegendsOverlay.exe",
     "sha256": ""
   },
