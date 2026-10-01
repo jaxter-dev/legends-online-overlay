@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "app": {
+    "version": "2.5.0",
+    "release_asset": "LegendsOverlay.exe",
+    "sha256": ""
+  },
+  "data": {
+    "events": {
+      "file": "events.json",
+      "sha256": ""
+    },
+    "uniques": {
+      "file": "uniques.json",
+      "sha256": ""
+    },
+    "trade_routes": {
+      "file": "trade_routes.json",
+      "sha256": ""
+    }
+  }
+}
