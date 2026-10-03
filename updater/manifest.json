@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "app": {
-    "version": "1.2.1",
+    "version": "1.3.1",
     "release_asset": "LegendsOverlay.exe",
-    "sha256": "d4757b7d5199664df7ce7adfe42dc7c79c6dc8de11f0b46dbed058125cab4f98"
+    "sha256": "bfd2a38cbfcf7f1520b9403bcab7994f075321da5b2fa0c4b70248ea2b4849ba"
   },
   "data": {
     "events": {
@@ -16,7 +16,7 @@
     },
     "trade_routes": {
       "file": "trade_routes.json",
-      "sha256": "e7fcc1de0e8e0766a6f3cc48b0b36888453d52b91909d762df8f69fd5052cedd"
+      "sha256": "a54a64c1a9573648cd80ee8bce76fe262459413ae3f00e1c9a060542d9ebc50d"
     }
   }
 }
