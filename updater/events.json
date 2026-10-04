@@ -193,22 +193,6 @@
             "quests": ""
         }
     },
-        {
-        "id": "special_goods_sunday",
-        "name": "Special Goods",
-        "time": ["11:00", "15:00", "23:00"],
-        "days": [6],
-        "duration_minutes": 60,
-        "type": "Event",
-        "priority": 1,
-        "registration_time_before": 0,
-        "details": {
-            "desc": "Time-limited event where all special trade routes are enabled",
-            "rewards": ["Trade profit"],
-            "requirements": ["Job Suit"],
-            "quests": ""
-        }
-    },
     {
         "id": "last_man",
         "name": "Last Man Standing",
