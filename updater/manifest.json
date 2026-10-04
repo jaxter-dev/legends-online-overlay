@@ -8,7 +8,7 @@
   "data": {
     "events": {
       "file": "events.json",
-      "sha256": "7db5f45dfcfadb13e7c9d224d136a39d9e2ac4e60bb9afc83aa7775651c51349"
+      "sha256": "e261bb16f67898afc5df48a9c1f42838f7bb1fcc4a11c09ff16323f32291ee1f"
     },
     "uniques": {
       "file": "uniques.json",

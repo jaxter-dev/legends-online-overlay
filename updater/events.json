@@ -196,7 +196,7 @@
         {
         "id": "special_goods_sunday",
         "name": "Special Goods",
-        "time": ["09:00", "15:00", "23:00"],
+        "time": ["11:00", "15:00", "23:00"],
         "days": [6],
         "duration_minutes": 60,
         "type": "Event",
